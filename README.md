@@ -9,6 +9,13 @@ Just getting started....
 
 ### Javascript
 
+[Difference Between call, apply and bind method in JavaScript](https://hdsatija.medium.com/difference-between-call-apply-and-bind-method-in-javascript-e98a7abc70e0)
+
+[tricks to boost your website performance](https://blog.canopas.com/6-tricks-to-boost-your-website-performance-9f886a47b6aa)
+
+[Refactoring Javascript Code: Truthy and Falsy](https://medium.com/@kyledeguzmanx/refactoring-javascript-code-truthy-and-falsy-f176a834a080)
+
+[Tools and methods often used in JavaScript](https://levelup.gitconnected.com/8-tools-and-methods-often-used-in-javascript-6fcebaf339ce)
 
 [Drop in replacements for setTimeout()/setInterval()](https://gist.github.com/joelambert/1002116)
 
@@ -24,6 +31,15 @@ Just getting started....
 
 
 [JavaScript Loops Explained](https://medium.com/@rembertdesigns/javascript-loops-explained-92f327dd2b69)
+
+[Contact form validation](https://ishratumar.medium.com/contact-form-validation-d76d63d08e24)
+
+[Modal Libraries For Web Development](https://niemvuilaptrinh.medium.com/15-modal-libraries-for-web-development-d8e9bd9dcb3c)
+
+[The Art of Receiving Feedback](https://medium.com/method-matter/the-art-of-receiving-feedback-1561aaa74d6c)
+
+[Amygdala Hijack and the Fight or Flight Response](https://www.verywellmind.com/what-happens-during-an-amygdala-hijack-4165944)
+
 
 
 ### Node.js
@@ -42,10 +58,28 @@ Just getting started....
 
 [Build a CRUD Website with HTML, CSS, JavaScript and an External API](https://javascript.plainenglish.io/basic-html-css-javascript-bootstrap-5-using-external-api-for-crud-operations-1a7349ab95b2)
 
+[make full stack e-commerce website](https://modernweb438.medium.com/how-to-make-full-stack-e-commerce-website-using-html-css-and-js-part-01-12a4e7d7efce)
+
+
+
 ### CSS
 
 
 [Overlapping Grid Items](https://mastery.games/post/overlapping-grid-items/)
+
+[start to love CSS utilities](https://medium.com/@chen.reuven/why-did-i-start-to-love-css-utilities-9da5ae9bd05)
+
+[Comprehensive Guide to CSS Flexbox](https://medium.com/@roy-chng/a-comprehensive-guide-to-css-flexbox-with-real-world-examples-d41c6bb9129d)
+
+[CSS Combinators : All about CSS ~ selector](https://modernweb438.medium.com/css-combinators-all-about-css-selector-learn-css-2022-f9c6d483ce5d)
+
+[Adding Images and Videos](https://modernweb438.medium.com/html-101-adding-images-and-videos-to-your-webpages-36f512903bd5)
+
+[How to truncate text with CSS](https://medium.com/@paulohfev/problem-solving-how-to-truncate-text-with-css-302b9be2bd64)
+
+[CSS — Part-4](https://eishta.medium.com/css-part-4-3702f4cec087)
+
+[How to Use <img> Tags Efficiently](https://medium.com/@sherry11913/html-how-to-use-img-tags-efficiently-95bbf4a42976)
 
 [How to improve your UI design skills](https://icons8.medium.com/how-to-improve-your-ui-design-skills-in-5-minutes-a-day-9978b18aa7d)
 
@@ -60,6 +94,16 @@ Just getting started....
 [CSS Animation Link Underline](https://paulund.co.uk/css-animation-link-underline)
 
 [Common CSS Flexbox Layout Patterns](https://tobiasahlin.com/blog/common-flexbox-patterns/)
+
+[Light and dark mode using CSS](https://medium.com/@shubh065/light-and-dark-mode-using-css-bf450a166a1a)
+
+[Fullscreen menu with hover animation](https://designyff.com/code/hover_menu_full_screen)
+
+[Fullscreen menu with hover animation](https://medium.com/@designyff/fullscreen-menu-with-hover-animation-a-step-by-step-guide-aa4e44716762)
+
+[Fundamentals of the CSS Float and Clear Properties](https://medium.com/getpieces/fundamentals-of-the-css-float-and-clear-properties-f8ed5a408a0f)
+
+[Make Web Pages Responsive?](https://medium.com/@sherry11913/html-css-how-to-make-web-pages-responsive-d9b6d725898b)
 
 
 
