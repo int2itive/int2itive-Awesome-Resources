@@ -79,6 +79,8 @@ Just getting started....
 
 [The Art of Receiving Feedback](https://medium.com/method-matter/the-art-of-receiving-feedback-1561aaa74d6c)
 
+[Yorubic Medicine: The Art of divine Herbology](https://planetherbs.com/research-center/theory-articles/yorubic-medicine-the-art-of-divine-herbology/)
+
 [Amygdala Hijack and the Fight or Flight Response](https://www.verywellmind.com/what-happens-during-an-amygdala-hijack-4165944)
 
 
@@ -115,6 +117,8 @@ https://app.daily.dev/search?q=CSS+Grid+Layout+Module
 
 
 [Overlapping Grid Items](https://mastery.games/post/overlapping-grid-items/)
+
+[CSS Grid Layout - A "Quick" Overview](https://adyngom.com/css-grid-layout-a-quick-overview/)
 
 [start to love CSS utilities](https://medium.com/@chen.reuven/why-did-i-start-to-love-css-utilities-9da5ae9bd05)
 
