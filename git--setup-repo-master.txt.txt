@@ -1,0 +1,38 @@
+Squarespace login- domperei@yahoo.co.uk Password - 1stincomestre@5e!!!
+
+[Use with git clone](https://github.com/int2itive/development-rebuilds.git)
+
+
+...or create a new repository on the command line
+
+echo "# development-rebuilds" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/int2itive/development-rebuilds.git
+git push -u origin main
+
+
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/int2itive/development-rebuilds.git
+git branch -M main
+git push -u origin main
+
+
+
+…or import code from another repository
+You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+
+
+
+
+[Authentication vs Authorization](https://www.freecodecamp.org/news/whats-the-difference-between-authentication-and-authorisation)
+
+[Create a Low-Code Ecommerce App](https://www.freecodecamp.org/news/create-a-low-code-ecommerce-app-with-stripe-postgres-rest-api-backend/)
+
+[Renewed or Cancelled](https://za.investing.com/magazine/renewed-or-canceled-the-status-of-every-tv-show-3/article/31064)
+
+[](https://deadline.com/2022/03/grown-ish-six-original-cast-members-exit-season-4-finale-1234986737/)
+

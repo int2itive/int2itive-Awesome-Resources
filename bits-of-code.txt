@@ -1,0 +1,568 @@
+http://garveys-ghost.blogspot.com/2023/01/feminisms-fallout-continues-apace.html
+
+Squarespace login- domperei@yahoo.co.uk Password - 1stincomestre@5e!!!
+
+I can’t help but — if not make an outright comparison, which I’m not doing — then at least find a resonance. In what way, though?
+
+
+
+https://stackedit.io/app#
+
+https://dillinger.io/
+
+
+
+
+[Get Ready to be Blown Away by Five of Paul Lewin’s Afro-futuristic Paintings](https://medium.com/la-biblioth%C3%A8que/black-history-month-get-ready-to-be-blown-away-by-five-of-paul-lewins-afro-futuristic-paintings-b6b1818a8fb0)
+
+[A privacy-friendly drop-in replacement for Google Fonts](https://github.com/coollabsio/fonts#how-to-use)
+
+
+[#3 Layout Design Using Grid](https://abhishekkovuri25.medium.com/3-layout-design-f2581cad6261)
+
+[implement overflow: hidden without using overflow: hidden?](https://medium.com/@rocchokcoco/how-to-implement-overflow-hidden-without-using-overflow-hidden-e2f04857854e)
+
+[MASTERING THE JAVASCRIPT FIND() METHOD](https://byrayray.dev/posts/2022-12-14-mastering-javascript-find-array-method)
+
+
+
+[Awesome Websites for Software Developer](https://medium.com/@pearlie/5-best-free-websites-for-learning-programming-92b296c59b71)
+
+[Beautiful button animation - How it's done](https://designyff.com/code/design_button_animation)
+
+
+[Social Buttons For Website Design](https://niemvuilaptrinh.medium.com/11-social-buttons-for-website-design-a62cf3e143ad)
+
+[HTML/CSS Social Media Buttons](https://codepen.io/colorlib/pen/QOYpyq)
+
+[Fancy Colorlib Social](https://codepen.io/colorlib/pen/GOzroL)
+
+[Login Form with floating placeholder and light button](https://codepen.io/soufiane-khalfaoui-hassani/details/LYpPWda)
+
+[Voyage Slider | GSAP](https://codepen.io/dev_loop/pen/MWKbJmO)
+
+
+
+[Computer Basics for Absolute Beginners](https://www.freecodecamp.org/news/computer-basics-beginners)
+https://youtu.be/y2kg3MOk1sY / https://www.youtube.com/watch?v=y2kg3MOk1sY
+
+[Master the HTTP Networking Protocol](https://www.freecodecamp.org/news/http-networking-protocol-course/)
+https://www.youtube.com/watch?v=2JYT5f2isg4
+
+[How to Use Vim – Tutorial](https://www.freecodecamp.org/news/vim-beginners-guide/)
+
+[Learn to Code & Get a Developer Job](https://www.freecodecamp.org/news/learn-to-code-book/)
+
+
+
+
+
+[Beginner at programming?, STOP believing this:](https://medium.com/@AmanPawasker/if-youre-a-beginner-at-programming-stop-believing-this-be93e453ccc7)
+
+[The Richest Black Girl in America](https://medium.com/truly-adventurous/the-richest-black-girl-in-america-ca8aebe054dc)
+
+
+
+[Online PDF Tools](https://tools.pdf24.org/en/)
+
+[Free assets for your next video project](https://mixkit.co/)
+
+[Algorithm Visualizer](https://algorithm-visualizer.org/)
+
+[React Rendering #1 — Basics](https://medium.com/yavar/react-rendering-1-basics-357a53fb9c52)
+
+[Commonly Used JavaScript Libraries](https://levelup.gitconnected.com/8-commonly-used-javascript-libraries-become-a-real-master-6d8a4e98eb89)
+
+[Need some mock data to test your app?](https://www.mockaroo.com/)
+
+[data for testing and development]()https://github.com/faker-js/faker
+https://fakerjs.dev/  // Generate massive amounts of fake (but realistic) data for testing and development.
+
+[browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
+
+[Learn Git Branching](https://learngitbranching.js.org/)
+
+[Learn Anything](https://learn-anything.xyz/1743)
+
+[How https Works](https://howhttps.works/the-keys/)
+
+https://howhttps.works/why-do-we-need-https/
+
+[How DNS Works](https://howdns.works/)
+
+[Bash exercises on Exercism](https://exercism.org/tracks/bash/exercises)
+
+[concepts to achieve fluency in JavaScript]( https://exercism.org/tracks/javascript/concepts)
+
+[learn and master TypeScript](https://exercism.org/tracks/typescript)
+
+
+
+https://keyframes.app/
+
+https://www.wappalyzer.com/
+
+https://leetcode.com/
+
+https://www.colorzilla.com/firefox/
+
+https://css3generator.com/
+
+https://css3buttongenerator.com/
+
+http://csstypeset.com/
+
+https://enjoycss.com/
+
+https://waitanimate.wstone.uk/
+CSS doesn’t provide a property to pause an animation before it loops around again. There is an animation-delay but this simply denotes a delay at the very start of the animation.
+
+When the element is first shown. WAIT! Animate calculates updated keyframe percentages given a wait time meaning you can insert a delay between each animation iteration using pure CSS, without JavaScript.
+
+https://cssmatic.com/
+
+https://create-react-app.dev/docs/getting-started/
+
+[Tailwind Starter Kit](https://github.com/creativetimofficial/tailwind-starter-kit)
+
+https://create-next-app.js.org/
+
+[A Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
+
+
+[What Is Email Only Authentication - Magic Link Auth](https://www.youtube.com/watch?v=b6qHfPdv4Y8)
+
+
+
+
+
+[Traversy Media](https://www.youtube.com/c/TraversyMedia)
+
+[Fireship](https://www.youtube.com/c/Fireship)
+
+
+
+[JavaScript - Exercises, Practice, Solution](https://www.w3resource.com/javascript-exercises/)
+
+[JavaScript: Logic Building](https://medium.com/@binny2001.bm/javascript-logic-building-for-beginners-and-intermediate-b4f27ccd1cfd)
+
+[Stop Writing !important in your CSS Code](https://medium.com/@ambroseliew1998/stop-writing-important-in-your-css-code-and-do-this-instead-62171f86016f)
+
+[A guide to designing successful Login experiences](https://medium.muz.li/a-guide-to-designing-successful-login-experiences-d9cdb81877ec)
+
+[Angular tricks to become a pro](https://medium.com/@garcia.alberto.4.2012/angular-tricks-to-become-a-pro-932a47d7751a)
+
+[simple and amazing JavaScript tricks](https://medium.com/developers-arena/some-simple-and-amazing-javascript-tricks-292e1962b1f6)
+
+[Typography is impossible](https://medium.engineering/typography-is-impossible-5872b0c7f891)
+
+[Interactive SVG Reference](https://fffuel.co/sssvg/)
+
+[Common SVG Fails (and How to Fix Them)](https://css-tricks.com/6-common-svg-fails-and-how-to-fix-them/)
+
+[Remove a DOM Element OnClick in JavaScript](https://javascript.plainenglish.io/javascript-remove-element-on-click-efa1fbd18dad)
+
+[JavaScript 101: All About Timers](https://blog.bitsrc.io/javascript-101-all-about-timers-cec07db55b86)
+
+[Enhancing JavaScript Objects with Descriptors and Symbols](https://itnext.io/enhancing-javascript-objects-with-descriptors-and-symbols-2cdc95e9b422)
+
+[`this` in JavaScript and why is it useful?](https://medium.com/@deedee8/this-in-javascript-and-why-it-is-useful-156e94e11ef0)
+
+[JavaScript Destructuring: Simple Object Examples](https://medium.com/@deppravacion/javascript-destructuring-simple-object-examples-c6a19f1533ba)
+
+[Things that make you far better Node.js developer (part 2)](https://medium.com/@derakhshanfar.hossein/things-that-make-you-far-better-node-js-developer-part-2-252ab08f4753)
+
+[Create QR Code Generator Using NodeJs](https://medium.com/@muhammadtaifkhan/create-qr-code-generator-in-1-line-of-code-using-nodejs-bc9b1964f60d)
+
+[Three Rules of Solving Problems](https://medium.com/@yonatanzunger/three-rules-of-solving-problems-355944d34c9a)
+
+[Save Image](https://miro.medium.com/max/4800/1*CPMEugrO3tDybHt4Y8jEwg.webp)
+
+[Amazing GitHub Repositories](https://tapajyoti-bose.medium.com/7-amazing-github-repositories-every-developer-should-follow-in-2023-917602fda760)
+
+[Github Repos For Developers](https://niemvuilaptrinh.medium.com/15-github-repos-for-developer-you-should-know-d09d52d4f97a)
+
+https://gomakethings.com/how-to-keep-your-javascript-organized/
+
+https://chenhuijing.com/blog/so-your-designer-wants-stuff-to-overlap/
+
+https://mastery.games/post/flex-shorthand/
+
+https://mastery.games/post/the-difference-between-width-and-flex-basis/
+
+https://mastery.games/post/flexbox-pitfalls/
+
+https://mastery.games/post/overlapping-grid-items/
+
+https://github.com/vasanthk/how-web-works
+
+https://medium.com/geekculture/leveling-up-your-javascript-part-1-es6-edition-13447e30980
+
+https://elijahmanor.com/blog/reducing-filter-and-map-down-to-reduce
+https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/
+
+https://www.smashingmagazine.com/2022/05/you-dont-need-ui-framework/
+
+https://www.joshwcomeau.com/css/color-formats/
+
+https://www.youtube.com/watch?v=sKFW3wek21Q
+
+https://www.youtube.com/watch?v=CcoPk7udIpA
+
+https://www.youtube.com/watch?v=86nTToBm2uQ
+
+https://www.youtube.com/watch?v=YAqRQoN8ykI
+
+https://www.youtube.com/shorts/2lyDv0wOQuQ
+
+
+https://blog.webdevsimplified.com/2022-10/js-scoping/
+
+https://www.youtube.com/watch?v=SVScyx4cJi8
+
+https://www.youtube.com/shorts/AvBs-2xCCuQ
+
+https://www.youtube.com/watch?v=rg7Fvvl3taU
+
+https://www.youtube.com/watch?v=3_-Je5XpbqY
+
+https://www.youtube.com/watch?v=ndeClnyHSo8
+
+https://www.youtube.com/watch?v=7ZO2RTMNSAY
+
+https://www.youtube.com/watch?v=vQc3EmFCWRw
+
+https://www.youtube.com/watch?v=flItyHiDm7E
+
+https://www.youtube.com/watch?v=8QKOaTYvYUA
+
+https://www.youtube.com/watch?v=At4B7A4GOPg
+
+https://www.youtube.com/watch?v=2alCBdPcadM
+
+https://www.youtube.com/watch?v=HcW5-P2SNec
+
+
+
+https://www.learnui.design/blog/7-rules-for-creating-gorgeous-ui-part-1.html
+
+https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/
+
+https://docs.netlify.com/domains-https/custom-domains/
+
+
+
+https://gomakethings.com/how-to-write-good-alt-text/
+
+https://zellwk.com/blog/never-let-anyone-stop-you-from-pursuing-your-dreams/
+
+https://gomakethings.com/how-to-check-if-an-array-includes-all-of-the-values-from-another-with-vanilla-js/
+
+
+
+https://mastery.games/post/flex-shorthand/
+
+https://mastery.games/post/the-difference-between-width-and-flex-basis/
+
+https://mastery.games/post/flexbox-pitfalls/
+
+
+https://mastery.games/post/overlapping-grid-items/
+
+https://github.com/vasanthk/how-web-works
+
+https://medium.com/geekculture/leveling-up-your-javascript-part-1-es6-edition-13447e30980
+
+https://elijahmanor.com/blog/reducing-filter-and-map-down-to-reduce
+
+https://9elements.com/blog/combined-aspect-ratio-grid/
+
+https://whispersofawomanist.com/2021/01/21/the-difference-between-poetry-and-rhetoric-a-black-female-perspective-on-the-inaugural-poet/
+
+[How Corruption Works](https://youtu.be/ACdPqdq_Gxw)
+
+[How Cookies Can Help You](https://youtu.be/x5Gv8aY5y8U)
+
+[Bind in Javascript](https://youtu.be/xgbdq7bfpk4)
+
+[How Stories Change Our Brains](https://shane.substack.com/p/how-stories-change-our-brains)
+
+[Understanding browser cookies](https://chenhuijing.com/blog/understanding-browser-cookies/)
+
+
+
+https://blog.bitsrc.io/how-to-use-localstorage-in-javascript-an-easy-guide-91aad566e4de
+
+[JavaScript Visualized Series' Articles](https://dev.to/lydiahallie/series/3341)
+
+[Secrets of reduce in JavaScript](https://dev.to/shayanypn/secrets-of-reduce-in-javascript-4odf)
+
+[Reducing Filter and Map Down to Reduce](https://elijahmanor.com/blog/reducing-filter-and-map-down-to-reduce)
+
+[How To Learn To Code Faster With Comments](https://blog.webdevsimplified.com/2021-08/how-to-learn-to-code-with-comments/)
+
+[Reduce: 10 Different Examples - Src](https://github.com/leighhalliday/reduce-example/blob/master/index.js)
+
+[A CIVILISED GUIDE TO JAVASCRIPT ARRAY METHODS](https://jrsinclair.com/javascript-array-methods-cheat-sheet)
+
+[Arrays (Array)](https://exploringjs.com/impatient-js/ch_arrays.html#quickref-arrays)
+
+
+
+
+https://allaboutcookies.org/
+https://javascript.plainenglish.io/javascript-get-first-character-of-string-cdd95333e24a
+https://enlear.academy/css-basics-4-grid-system-and-responsive-design-ff211e074387
+https://levelup.gitconnected.com/how-to-flex-a-beginners-guide-904c3edc2fdc
+https://medium.com/@rembertdesigns/css-transitions-tutorial-f607ab405a19
+https://www.ilovepdf.com/
+https://www.takefive-stopfraud.org.uk/cookie-policy/
+https://www.worldtimebuddy.com/
+https://ihateregex.io/expr/ip
+https://squoosh.app/ // Make images smaller using best-in-class codecs right in the browser.
+https://www.screely.com/ // Turn any screenshots into a browser mockup
+https://prestige.dev/ // An HTTP client in your web browser
+http://makethumbnails.com/#dropzone // drop some images and you get a zip file containing the thumbnails
+
+[Responsive magazine layout](https://codepen.io/xmark/pen/epeopR)
+
+[Responsive Minimal Blog Layout](https://codepen.io/AnalogAyub/pen/nPVJpy)
+
+[Web-Safe Magazine Layout // 04 // CSS Grid](https://codepen.io/brianhaferkamp/pen/NpZvpx)
+
+[CSS Grid Magazine Layout](https://codepen.io/semblance/pen/XexVbB)
+
+[CSS Grid Magazine Style Layout](https://codepen.io/winkerVSbecks/pen/KmoxJp)
+
+[Magazine Layout Attempt #2](https://codepen.io/chriscoyier/pen/YyxKea)
+
+[another magazine layout](https://codepen.io/xmark/pen/wKpMXG)
+
+[Coded an article layout I saw in a magazine](https://codepen.io/dominicgan/pen/XdEzWZ)
+
+[Magazine Layout](https://codepen.io/raiscake/pen/YNvJao)
+
+[Layout Demo # 1 - Shapes, Clip-Path and CSS Grid](https://codepen.io/mandymichael/pen/axZyoP)
+
+
+https://ik.imagekit.io/ghow2otb3rc/Projects/brown-princess-natural_1__uwP21plKC.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1669071465332
+
+https://ik.imagekit.io/ghow2otb3rc/Projects/tumblr-ok8d0fh1pr1uie5cuo3-1280_1__CgSHHCMvNd.png?ik-sdk-version=javascript-1.4.3&updatedAt=1669071464702 
+https://ik.imagekit.io/ghow2otb3rc/Projects/tumblr-pb0kpq-ELy21qlvk8do1-1280_1__7Ixgw0AhO.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1669071464285
+
+https://ik.imagekit.io/ghow2otb3rc/Projects/adesuwe-aighewi-for-s-moda_df8db_500-removebg-preview_YumfM0qyY.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668083294411
+
+https://ik.imagekit.io/ghow2otb3rc/Projects/249480653_378848983924168_6220253403698457218_n_TaQFvKvbQ.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1646763439948
+
+https://ik.imagekit.io/ghow2otb3rc/Projects/tn-blue-rock--lrg_iMzEAC7Hy.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1646762944314
+
+https://ik.imagekit.io/ghow2otb3rc/Projects/mock-ups/DXDeaUVUQAIR2hu_lX6256zZJo.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668763598248
+
+https://ik.imagekit.io/ghow2otb3rc/Projects/mock-ups/DZ9eGitW0AAl8UM_1AXmp4pGn.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1668763598277
+
+https://ik.imagekit.io/ghow2otb3rc/Projects/mock-ups/Enhance-boost-AI__HmVb_KM9.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668763599112
+
+https://ik.imagekit.io/ghow2otb3rc/Projects/mock-ups/Figma-JLYxOj0xhVaJQSmORUsBam_hRt3vYWuJw.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668763603027
+
+https://ik.imagekit.io/ghow2otb3rc/Projects/promotions/tn-blue-rock--lrg_decP0BQOF.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1654377305352
+
+https://ik.imagekit.io/ghow2otb3rc/etc-assets-c0vmembers/DinaAsher_05_result_fxiyCqJvA.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661951952855
+
+https://ik.imagekit.io/ghow2otb3rc/etc-assets-c0vmembers/badula_ASTX7TMUr.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661951929097
+
+https://ik.imagekit.io/ghow2otb3rc/rebirthofthegriot/holda-vlcsnap-59s-c0_BBI7tIZs7q.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661959869752
+
+ 
+
+Here are the top 5 most common mistakes made by JavaScript developers, and how to avoid them:
+
+
+1. Failing to check for null or undefined values. One of the most common mistakes made by JavaScript developers is forgetting to check for null or undefined values before attempting to access an object's properties or methods. To avoid this mistake, always make sure to check for these values before attempting to use an object.
+
+2. Not using curly braces for code blocks. It’s easy to forget to use curly braces when writing JavaScript code, especially when working with if statements and other control structures. However, failing to use curly braces can lead to bugs and other issues. To avoid this mistake, make sure to always use curly braces for code blocks, even when you only have one line of code.
+
+3. Confusing == and ===. In JavaScript, == is used for type coercion, while === is used for strict equality comparison. Confusing these two operators can lead to unexpected results and bugs. To avoid this mistake, always use === for strict equality comparison, unless you have a specific reason to use ==.
+
+4. Not using let and const for variable declarations. In modern JavaScript, it's best practice to use let and const for variable declarations, rather than the old var keyword. let and const have more specific scoping rules, which can help prevent bugs and improve code readability. To avoid this mistake, get in the habit of using let and const for all of your variable declarations.
+
+5. Not handling asynchronous code correctly. JavaScript is a single-threaded language, but it also has support for asynchronous code through the use of callbacks, promises, and async/await. Failing to handle asynchronous code correctly can lead to race conditions and other issues. To avoid this mistake, make sure you understand how asynchronous code works in JavaScript and always handle it correctly in your code.
+
+By avoiding these common mistakes, you’ll be well on your way to becoming a more proficient JavaScript developer. Keep practicing and learning, and you’ll be writing clean, efficient code in no time.
+
+
+
+
+##Ways to Center Elements Vertically and Horizontally
+
+##### There may be more than 8
+
+
+
+In a front-end web interview, you may have faced the question “how to center an element vertically and horizontally?” more than once.
+
+It’s common and simple, but often we choose to ignore it. This article will introduce you to 8 ways to get it.
+
+First look at the example HTML:
+
+<div class="parent" style="background: black; width: 200px; height: 200px">
+  <div class="child" style="background: red; width: 100px; height: 100px"></div>
+</div>
+We get a 200px parent container and a 100px child container.
+
+Below I will introduce 8 ways, and give a running example at the end.
+
+
+1.
+The first is the rough CSS value based on the size of the parent and child containers:
+
+<style>
+  .parent {
+    position: relative;
+  }
+.child {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin: -50px 0 0 -50px;
+  }
+</style>
+
+Once the original element size changes, the CSS needs to change with it. This is not ideal. Therefore, the methods described below do not need to consider the width and height of the parent and child elements, which are more recommended.
+
+
+2.
+2.
+<style>
+  .parent {
+    position: relative;
+  }
+.child {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+  }
+</style>
+
+The difference between this method and the first one is that we use transform instead of margin, which makes our CSS code no longer depend on the dimensions of the element.
+
+
+
+3.
+<style>
+  .parent {
+    position: relative;
+  }
+.child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+  }
+</style>
+
+Remember this way, the values in all four directions must be 0
+
+4.
+<style>
+  .parent {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+  }
+.child {
+    display: inline-block;
+  }
+</style>
+
+
+
+5.
+<style>
+  .parent {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+</style>
+
+This method is probably the most widely used currently.
+
+
+
+6.
+<style>
+  .parent {
+    display: flex;
+  }
+.child {
+    margin: auto;
+  }
+</style>
+
+
+
+7.
+<style>
+  .parent {
+    display: grid;
+    /* The following 3 ways of writing are OK */
+    /* 1 */
+    /* justify-content: center;
+    align-content: center; */
+/* 2 */
+    /* align-items: center;
+    justify-items: center; */
+/* 3 */
+    place-content: center;
+  }
+</style>
+
+
+
+8.
+<style>
+  .parent {
+    display: grid;
+  }
+.child {
+    align-self: center;
+    justify-self: center;
+  }
+</style>
+
+Next is a running example using these methods:
+
+
+https://stackblitz.com/edit/web-platform-fjblmx?file=index.html
+
+
+
+https://gaurav464.medium.com/tools-i-use-as-a-web-developer-d15dc324d34
+
+
+https://javascript.plainenglish.io/javascript-remove-class-from-multiple-elements-99e694e94ca6
+
+
+https://twitter.com/ScribeHow
+
+
+https://codepen.io/ambroseliew/pen/jOpzXpj
+
+
+https://css3buttongenerator.com/
+
+
+
+
+
+
+
+
+
+
+
+
