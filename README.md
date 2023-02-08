@@ -162,6 +162,52 @@ https://app.daily.dev/search?q=CSS+Grid+Layout+Module
 ### Miscellaneous
 
 
+
+[Easy SVG Customization And Animation](https://www.smashingmagazine.com/2023/01/svg-customization-animation-practical-guide/)
+
+[Grid Rotation Concep](https://codesandbox.io/s/grid-rotation-concept-lnuld6?file=/src/index.tsx:87-120)
+
+[Awesome Demos Roundup #23](https://tympanus.net/codrops/2023/01/30/awesome-demos-roundup-23/)
+
+[Creating an interactive SVG](https://blog.logrocket.com/interactive-svg-circle-of-fifths/)
+
+[Gatsby is joining Netlify](https://www.gatsbyjs.com/blog/gatsby-is-joining-netlify/)
+
+[Fancy Hover Effect For Your Avatar](https://css-tricks.com/a-fancy-hover-effect-for-your-avatar/)
+
+[Create a full-page background with CSS](https://blog.logrocket.com/css-full-page-background/)
+
+[Container Queries and Typography](https://www.robinrendle.com/notes/container-queries-and-typography/)
+
+[Accessible hamburger buttons without JavaScript](https://www.pausly.app/blog/accessible-hamburger-buttons-without-javascript)
+
+[Working With The CSS Grid](https://blog.openreplay.com/working-with-the-css-grid/)
+
+[CSS color-mix()](https://developer.chrome.com/blog/css-color-mix/)
+
+[Circular text with CSS](https://jhey.dev/cheep/circular-text-with-css/)
+
+[Guide To Responsive Design In 2023](https://ishadeed.com/article/responsive-design/)
+
+[Options for Removing Event Listeners](https://www.macarthur.me/posts/options-for-removing-event-listeners)
+
+[Read And Write JSON In JavaScript](https://blog.openreplay.com/how-to-read-and-write-json-in-javascript/)
+
+[The Ultimate Guide to JavaScript Error Handling](https://www.sitepoint.com/javascript-error-handling/)
+
+[Being ‘Too Busy’ Means Your Personal Strategy Sucks](https://rogermartin.medium.com/being-too-busy-means-your-personal-strategy-sucks-8f24b9327179)
+
+[CSS Color Theory](https://medium.com/@faridvatani/css-color-theory-20db867a934c)
+
+[How to HTML: The JavaScript Edition](https://medium.com/@jason_wandrag_the_web_wizard/how-to-html-the-javascript-edition-3a8b26f315cc)
+
+[Advance Objects: JavaScript](https://hennasingh.medium.com/advance-objects-javascript-471985c8d924)
+
+[Full Stack Web Developer Roadmap 2023](https://medium.com/@CodeWithMasood/full-stack-web-developer-roadmap-2023-complete-guide-56d0b1104d5d)
+
+[The Journey of #100DaysOfCode](https://www.mongodb.com/community/forums/t/the-journey-of-100daysofcode-henna-dev/147473)
+
+
 https://guides.github.com/activities/hello-world/
 
 http://clagnut.com/blog/348/
