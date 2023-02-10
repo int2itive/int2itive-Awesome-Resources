@@ -10,6 +10,17 @@ Just getting started....
 ### Javascript
 
 
+[JavaScript to modify the URL without reloading the page](https://sonikamaheshwari067.medium.com/how-do-i-use-javascript-to-modify-the-url-without-reloading-the-page-9189f1a57e47)
+
+[Array to String Without Commas](https://medium.com/@gaelgthomas/array-to-string-without-commas-in-javascript-d4e6ebcbf3e2)
+
+
+
+[Do you know these interesting things in Javascript?](https://medium.com/@khushbuchoksi/do-you-know-these-interesting-things-in-javascript-f7cd9082e126)
+
+[JavaScript HTML DOM Documents](https://bayramblog.medium.com/javascript-html-dom-documents-c76bed17a509)
+
+[Array Destructuring in JavaScript](https://medium.com/thedevproject/understand-array-destructuring-in-javascript-d01acb75d974)
 
 [Secrets of reduce in JavaScript](https://dev.to/shayanypn/secrets-of-reduce-in-javascript-4odf)
 
@@ -116,6 +127,14 @@ https://app.daily.dev/search?q=CSS+Grid+Layout+Module
 ### CSS
 
 
+[Responsive Sidebar Navigation in css](https://faun.pub/responsive-sidebar-navigation-in-css-70f0435ed19a)
+
+[Slider](https://codepen.io/shubhamtiwari909/pen/QWxMwxy)
+
+[How to create a send button with animation](https://designyff.com/code/send_button_with_animation)
+
+[Responsive CSS Grid Generator 2023](https://medium.com/geekculture/9-best-responsive-css-grid-generator-2023-d0fa298e3a1)
+
 [Overlapping Grid Items](https://mastery.games/post/overlapping-grid-items/)
 
 [CSS Grid Layout - A "Quick" Overview](https://adyngom.com/css-grid-layout-a-quick-overview/)
@@ -162,6 +181,22 @@ https://app.daily.dev/search?q=CSS+Grid+Layout+Module
 ### Miscellaneous
 
 
+
+![Pic](https://miro.medium.com/v2/resize:fit:4800/format:webp/0*6k3bj1d-8ag7qFng.png)
+
+[Form Validation with HTML](https://medium.com/stackanatomy/form-validation-with-html-a32b78136782)
+
+
+
+[Beautifully Created Dark Websites](https://medium.com/orpetron/10-beautifully-created-dark-websites-that-you-must-see-ff205f2b4b40)
+
+[Websites With Inspirational Typography Animations](https://medium.com/orpetron/top-10-websites-with-inspirational-typography-animations-ebd01626908d)
+
+[LOOKUP Functions in Google Sheets and Excel](https://www.freecodecamp.org/news/lookup-functions-in-excel-google-sheets/)
+
+[APIs for Beginners Tutorial](https://www.freecodecamp.org/news/apis-for-beginners/)
+
+[How to use an API (Full Course / Tutorial)](https://www.youtube.com/watch?v=WXsD0ZgxjRw)
 
 [Easy SVG Customization And Animation](https://www.smashingmagazine.com/2023/01/svg-customization-animation-practical-guide/)
 
