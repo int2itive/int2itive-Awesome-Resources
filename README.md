@@ -14,6 +14,8 @@ Just getting started....
 
 [Array to String Without Commas](https://medium.com/@gaelgthomas/array-to-string-without-commas-in-javascript-d4e6ebcbf3e2)
 
+[Local Storage Versus Cookies: Which to Use to Securely Store Session Tokens](https://www.pivotpointsecurity.com/local-storage-versus-cookies-which-to-use-to-securely-store-session-tokens/#:~:text=Cookies%20pros%20and%20cons&text=This%20makes%20cookie%20data%20less,security%20options%20than%20with%20localStorage.)
+
 
 
 [Do you know these interesting things in Javascript?](https://medium.com/@khushbuchoksi/do-you-know-these-interesting-things-in-javascript-f7cd9082e126)
@@ -186,7 +188,13 @@ https://app.daily.dev/search?q=CSS+Grid+Layout+Module
 
 [Form Validation with HTML](https://medium.com/stackanatomy/form-validation-with-html-a32b78136782)
 
+[LocalStorage vs Cookies](https://dev.to/cotter/localstorage-vs-cookies-all-you-need-to-know-about-storing-jwt-tokens-securely-in-the-front-end-15id)
 
+[What on Earth Is OAuth?](https://dev.to/cotter/what-on-earth-is-oauth-a-super-simple-intro-to-oauth-2-0-access-tokens-and-how-to-implement-it-in-your-site-48jo)
+
+[Before You Start: Pick the Right Flow for Your Website](https://dev.to/cotter/oauth-2-0-before-you-start-pick-the-right-flow-for-your-website-spa-mobile-app-tv-app-and-cli-17n4)
+
+[Cookies vs Localstorage for sessions](https://supertokens.com/blog/cookies-vs-localstorage-for-sessions-everything-you-need-to-know)
 
 [Beautifully Created Dark Websites](https://medium.com/orpetron/10-beautifully-created-dark-websites-that-you-must-see-ff205f2b4b40)
 
