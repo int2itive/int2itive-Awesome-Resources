@@ -196,6 +196,10 @@ https://app.daily.dev/search?q=CSS+Grid+Layout+Module
 
 [Cookies vs Localstorage for sessions](https://supertokens.com/blog/cookies-vs-localstorage-for-sessions-everything-you-need-to-know)
 
+[The Ultimate Guide to handling JWTs on frontend clients](https://hasura.io/blog/best-practices-of-using-jwt-with-graphql/#jwt_persist)
+
+[Please Stop Using Local Storage]()
+
 [Beautifully Created Dark Websites](https://medium.com/orpetron/10-beautifully-created-dark-websites-that-you-must-see-ff205f2b4b40)
 
 [Websites With Inspirational Typography Animations](https://medium.com/orpetron/top-10-websites-with-inspirational-typography-animations-ebd01626908d)
