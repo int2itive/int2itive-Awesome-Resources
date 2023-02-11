@@ -10,11 +10,31 @@ Just getting started....
 ### Javascript
 
 
+[Youtube Channel Should Follow For Developer](https://niemvuilaptrinh.medium.com/19-youtube-channel-should-follow-for-developer-b8b46280f019)
+
+[]
+
 [JavaScript to modify the URL without reloading the page](https://sonikamaheshwari067.medium.com/how-do-i-use-javascript-to-modify-the-url-without-reloading-the-page-9189f1a57e47)
 
 [Array to String Without Commas](https://medium.com/@gaelgthomas/array-to-string-without-commas-in-javascript-d4e6ebcbf3e2)
 
 [Local Storage Versus Cookies: Which to Use to Securely Store Session Tokens](https://www.pivotpointsecurity.com/local-storage-versus-cookies-which-to-use-to-securely-store-session-tokens/#:~:text=Cookies%20pros%20and%20cons&text=This%20makes%20cookie%20data%20less,security%20options%20than%20with%20localStorage.)
+
+[How to keep your JavaScript organized](https://gomakethings.com/how-to-keep-your-javascript-organized/)
+
+[Leveling Up Your JavaScript (Part 1)](https://medium.com/geekculture/leveling-up-your-javascript-part-1-es6-edition-13447e30980)
+
+[Reducing Filter and Map Down to Reduce](https://elijahmanor.com/blog/reducing-filter-and-map-down-to-reduce)
+
+[Little-Known Array Methods in JavaScript](https://javascript.plainenglish.io/little-known-array-methods-javascript-3aee9ae8758a)
+
+[Custom Notification Template with JS](https://medium.com/@shubhmtiwri00/custom-notification-template-with-js-2c3f076c0ef5)
+
+[Creating a React App | Day 1](https://medium.com/@feyzafacan/creating-a-react-app-day-1-100daysofcode-cfe00c855372)
+
+[Free Public APIs](https://tapajyoti-bose.medium.com/7-free-public-apis-you-will-love-as-a-developer-c56fc80c35aa)
+
+[When life gives you lemons, write better error messages](https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f)
 
 
 
@@ -129,6 +149,48 @@ https://app.daily.dev/search?q=CSS+Grid+Layout+Module
 ### CSS
 
 
+[Awesome CSS](https://github.com/awesome-css-group/awesome-css)
+
+[CSS Protips](https://github.com/AllThingsSmitty/css-protips)
+
+[Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
+
+[So your designer wants stuff to overlap](https://chenhuijing.com/blog/so-your-designer-wants-stuff-to-overlap/)
+
+[Overlapping Grid Items](https://mastery.games/post/overlapping-grid-items/)
+
+[Building a combined CSS-aspect-ratio-grid](https://9elements.com/blog/combined-aspect-ratio-grid/)
+
+[Document Object Model (DOM) Geometry](https://www.smashingmagazine.com/2022/11/document-object-model-geometry-guide/)
+
+[PX or REM in CSS? Just Use REM](https://austingil.com/px-or-rem-in-css/)
+
+[How to Build HTML Forms Right: Styling](https://austingil.com/build-html-forms-right-styling/)
+
+[How to Build HTML Forms Right: Accessibility](https://austingil.com/how-to-build-html-forms-right-accessibility/)
+
+[How to Build HTML Forms Right: Security](https://austingil.com/how-to-build-html-forms-right-security/)
+
+[OMG, SVG Favicons FTW!](https://austingil.com/svg-favicons/)
+
+[Building Super Powered HTML Forms with JavaScript](https://austingil.com/building-super-powered-html-forms-with-javascript/)
+
+[An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
+
+[Rules for Creating Gorgeous UI](https://www.learnui.design/blog/7-rules-for-creating-gorgeous-ui-part-1.html)
+
+[We Should Use Height & Width Attributes on the HTML img Tag](https://ltvengineering.medium.com/why-we-should-use-height-width-attributes-on-the-html-img-tag-2c2188489f23)
+
+
+
+[The CSS :has Selector](https://css-tricks.com/the-css-has-selector/)
+
+[add a gradient overlay to a background image](https://webdevetc.com/blog/how-to-add-a-gradient-overlay-to-a-background-image-using-just-css-and-html/)
+
+[How we think about browsers](https://github.blog/2022-06-10-how-we-think-about-browsers/)
+
+[How to write good alt text](https://gomakethings.com/how-to-write-good-alt-text/)
+
 [Responsive Sidebar Navigation in css](https://faun.pub/responsive-sidebar-navigation-in-css-70f0435ed19a)
 
 [Slider](https://codepen.io/shubhamtiwari909/pen/QWxMwxy)
@@ -185,6 +247,40 @@ https://app.daily.dev/search?q=CSS+Grid+Layout+Module
 
 
 ![Pic](https://miro.medium.com/v2/resize:fit:4800/format:webp/0*6k3bj1d-8ag7qFng.png)
+
+[Awesome](https://github.com/sindresorhus/awesome)
+
+[JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
+
+[JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
+
+[clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+
+[Free for Dev](https://github.com/ripienaar/free-for-dev)
+
+[Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
+
+[Effective Engineer - Notes](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
+
+[Free Learning Resources In Many Languages](https://github.com/EbookFoundation/free-programming-books)
+
+[Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)
+
+[Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners)
+
+[Awesome for non-programmers](https://github.com/szabgab/awesome-for-non-programmers)
+
+
+
+[Step-by-Step Guide: Deploying on Netlify](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/)
+
+[Custom domains](https://docs.netlify.com/domains-https/custom-domains/)
+
+[Never let anyone stop you from pursuing your dreams](https://zellwk.com/blog/never-let-anyone-stop-you-from-pursuing-your-dreams/)
+
+[How Web Works](https://github.com/vasanthk/how-web-works)
+
+
 
 [Form Validation with HTML](https://medium.com/stackanatomy/form-validation-with-html-a32b78136782)
 
