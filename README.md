@@ -249,6 +249,21 @@ https://app.daily.dev/search?q=CSS+Grid+Layout+Module
 
 [Responsive menu using media queries codepen](https://medium.com/@designyff/responsive-menu-using-media-queries-tutorial-2f2066c63905)
 
+[How to add a gradient overlay to text with CSS](https://fossheim.io/writing/posts/css-text-gradient/)
+
+[CSS Gradient Text](https://cssgradient.io/blog/css-gradient-text/)
+
+[add a gradient overlay to a background image](https://webdevetc.com/blog/how-to-add-a-gradient-overlay-to-a-background-image-using-just-css-and-html/)
+
+[CodePen Home
+Opening Credits](https://codepen.io/vuild/pen/JexjNP)
+
+[Movie credits in css transitions](https://codepen.io/pepf/pen/bNWxbQ)
+
+[Movie Credits Letter Effect Slideshow](https://codepen.io/CKH4/pen/jbzPJY)
+
+
+
 
 
 
