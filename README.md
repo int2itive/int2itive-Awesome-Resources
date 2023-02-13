@@ -12,7 +12,9 @@ Just getting started....
 
 [Youtube Channel Should Follow For Developer](https://niemvuilaptrinh.medium.com/19-youtube-channel-should-follow-for-developer-b8b46280f019)
 
-[]
+[Don’t Learn React In 2023! (The Ultimate Guide)](https://medium.com/@CodeWithMasood/dont-learn-react-in-2023-the-ultimate-guide-d7afa756e553)
+
+
 
 [JavaScript to modify the URL without reloading the page](https://sonikamaheshwari067.medium.com/how-do-i-use-javascript-to-modify-the-url-without-reloading-the-page-9189f1a57e47)
 
@@ -241,12 +243,33 @@ https://app.daily.dev/search?q=CSS+Grid+Layout+Module
 
 [Make Web Pages Responsive?](https://medium.com/@sherry11913/html-css-how-to-make-web-pages-responsive-d9b6d725898b)
 
+[Underline Text with CSS & Customize the Style](https://jonlehman.medium.com/how-to-underline-text-with-css-customize-the-style-dce7f8541bbd)
+
+[The Flexible Box Layout Model | Complete Guide](https://medium.com/learn-web-development-notes/flexbox-the-flexible-box-layout-model-complete-guide-94a0aaf02fff)
+
+[Responsive menu using media queries codepen](https://medium.com/@designyff/responsive-menu-using-media-queries-tutorial-2f2066c63905)
+
+
+
+
 
 ### Miscellaneous
 
 
 
 ![Pic](https://miro.medium.com/v2/resize:fit:4800/format:webp/0*6k3bj1d-8ag7qFng.png)
+
+
+
+[Award-Winning Webflow Websites](https://medium.com/orpetron/award-winning-webflow-websites-11-examples-of-design-and-development-excellence-fe0eee6179d7)
+
+
+
+[6 Excellent About-Page Designs](https://medium.com/orpetron/16-excellent-about-page-designs-that-you-must-see-95ae844fb165)
+
+[CSS- Flexbox vs. Grid](https://medium.com/@miya.miah.w/css-flexbox-vs-grid-what-is-the-difference-and-when-to-use-them-845452bb8fe)
+
+
 
 [Awesome](https://github.com/sindresorhus/awesome)
 
