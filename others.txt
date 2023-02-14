@@ -1,0 +1,26 @@
+
+
+[Word Swipe Animation](https://codepen.io/EricPorter/pen/JjPmOOb)
+
+[Cross Color Text Reveal](https://codepen.io/ispykenny/pen/BaaYqYZ)
+
+[Rotating text](https://codepen.io/rachsmith/pen/BNKJme)
+
+[Opening Sequence](https://codepen.io/sschepis/pen/KKqvgQ)
+
+[Text Animation #4 - Smooth fade-in](https://codepen.io/kazed972/pen/bQOQGR)
+
+[Pure CSS | FadeIn Text with bars | KeyFrames & Scss](https://codepen.io/KaioRocha/pen/YoEVvZ)
+
+[Bars FadeIn Text | Pure CSS Effect with Keyframes](https://www.youtube.com/watch?v=7d2XsPSjjjI)
+
+[CSS Shimmer Text Effect](https://codepen.io/redouglas/pen/oNgqxV)
+
+[Luminance](https://codepen.io/onecastell/pen/VwZWBvr)
+
+[Pure CSS3 “PowerPoint” Like Presentation (complete)](https://codepen.io/tutsplus/pen/oXYjYO)
+
+[Text Animation - Vanilla JS](https://codepen.io/bulldogpatch-the-sasster/pen/JjoyeGg)
+
+
+
