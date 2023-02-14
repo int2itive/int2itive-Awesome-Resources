@@ -18,7 +18,9 @@ Just getting started....
 
 [Super Useful JS Tips](https://levelup.gitconnected.com/20-super-useful-js-tips-to-make-your-job-easier-1651d9010f48)
 
+[Animated Text CSS & JavaScript Code](https://speckyboy.com/css-javascript-text-animation-snippets/)
 
+[CSS Text Animation Examples](https://www.sliderrevolution.com/resources/css-text-animation/)
 
 [JavaScript to modify the URL without reloading the page](https://sonikamaheshwari067.medium.com/how-do-i-use-javascript-to-modify-the-url-without-reloading-the-page-9189f1a57e47)
 
