@@ -14,6 +14,10 @@ Just getting started....
 
 [Don’t Learn React In 2023! (The Ultimate Guide)](https://medium.com/@CodeWithMasood/dont-learn-react-in-2023-the-ultimate-guide-d7afa756e553)
 
+[JavaScript Array Reference #1](https://bayramblog.medium.com/javascript-array-reference-1-qucik-learn-443666ff3797)
+
+[Super Useful JS Tips](https://levelup.gitconnected.com/20-super-useful-js-tips-to-make-your-job-easier-1651d9010f48)
+
 
 
 [JavaScript to modify the URL without reloading the page](https://sonikamaheshwari067.medium.com/how-do-i-use-javascript-to-modify-the-url-without-reloading-the-page-9189f1a57e47)
@@ -118,6 +122,9 @@ Just getting started....
 
 [Amygdala Hijack and the Fight or Flight Response](https://www.verywellmind.com/what-happens-during-an-amygdala-hijack-4165944)
 
+[How I displayed 1000 users in less than a second](https://medium.com/@jason_wandrag_the_web_wizard/how-i-displayed-1000-users-in-less-than-a-second-dcf814bc1440)
+
+
 
 
 ### Node.js
@@ -149,6 +156,18 @@ https://app.daily.dev/search?q=CSS+Grid+Layout+Module
 
 
 ### CSS
+
+
+[CSS: Advanced pseudo-classes](https://blog.canopas.com/css-advanced-pseudo-classes-with-examples-c1d253c662e6)
+
+[Auto-Sizing Columns in CSS Grid](https://css-tricks.com/auto-sizing-columns-css-grid-auto-fill-vs-auto-fit/)
+
+[difference between auto-fill and auto-fit?](https://stackoverflow.com/questions/46226539/what-is-the-difference-between-auto-fill-and-auto-fit)
+
+[CSS Clamp(): The Responsive Combination We’ve All Been Waiting For](https://blog.bitsrc.io/css-clamp-the-responsive-combination-weve-all-been-waiting-for-f1ce1981ea6e)
+
+[Fluid Typography Using CSS Clamp](https://www.smashingmagazine.com/2022/01/modern-fluid-typography-css-clamp/)
+
 
 
 [Awesome CSS](https://github.com/awesome-css-group/awesome-css)
@@ -448,6 +467,29 @@ https://gist.github.com/joyrexus/7307312
 [16.7: Array Functions: reduce()](https://www.youtube.com/watch?v=-LFjnY1PEDA)
 
 [CSS Grid Layout - A [Quick] Overview](https://www.youtube.com/watch?v=wWGjogHcLxY)
+
+
+
+### Utils
+
+
+[Tailored Privacy Policy, Terms & more](https://getterms.io/)
+
+[Regular Expressions](https://regex101.com/)
+
+[Remove Video Background](https://www.unscreen.com/)
+
+[Git Badges](https://forthebadge.com/)
+
+[Cron expression generator](https://crontab.cronhub.io/)
+
+[Create useful .gitignore files for your project](https://www.toptal.com/developers/gitignore)
+
+[find the difference between two text documents](https://text-compare.com/)
+
+
+
+
 
 
 
