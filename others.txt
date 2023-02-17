@@ -23,4 +23,14 @@
 [Text Animation - Vanilla JS](https://codepen.io/bulldogpatch-the-sasster/pen/JjoyeGg)
 
 
+/* Text Messaging Book Proj - P. Gibson */
+
+[Message Style CSS](https://codepen.io/ezenith/pen/pJLypJ)
+
+[Chat Bubbles - iOS style](https://codepen.io/swards/pen/gxQmbj)
+
+[Chat Bubbles in CSS](https://codepen.io/Founts/pen/AJyVOr)
+
+
+
 
