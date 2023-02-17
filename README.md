@@ -10,6 +10,15 @@ Just getting started....
 ### Javascript
 
 
+
+[Asynchronous Programming in JavaScript](https://www.freecodecamp.org/news/asynchronism-in-javascript/)
+
+[HTTP Networking in JavaScript](https://www.freecodecamp.org/news/http-full-course/)
+
+[Full HTTP Networking Course – Fetch and REST APIs in JavaScript](https://www.youtube.com/watch?v=2JYT5f2isg4)
+
+
+
 [Youtube Channel Should Follow For Developer](https://niemvuilaptrinh.medium.com/19-youtube-channel-should-follow-for-developer-b8b46280f019)
 
 [Don’t Learn React In 2023! (The Ultimate Guide)](https://medium.com/@CodeWithMasood/dont-learn-react-in-2023-the-ultimate-guide-d7afa756e553)
@@ -158,6 +167,16 @@ https://app.daily.dev/search?q=CSS+Grid+Layout+Module
 
 
 ### CSS
+
+
+[How the Z-index Property Works – Stacking Order of Elements](https://www.freecodecamp.org/news/z-index-property-and-stacking-order-css/)
+
+[White Space Design Tips](https://medium.com/@FlowMapp/clean-ui-guide-15-white-space-design-tips-c5320e248a26)
+
+[HTML and CSS Only Blobs](https://adityapurwa.medium.com/html-and-css-only-blobs-cc442677d398)
+
+[Building a Damn Simple Calendar Layout with CSS Grid, Moment, and Vue](https://leemartin.dev/building-a-damn-simple-calendar-layout-with-css-grid-moment-and-vue-65698e5e277e)
+
 
 
 [CSS: Advanced pseudo-classes](https://blog.canopas.com/css-advanced-pseudo-classes-with-examples-c1d253c662e6)
