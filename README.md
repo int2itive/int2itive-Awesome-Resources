@@ -7,6 +7,48 @@ As a work in relative progress, the listed resources will assume a categorically
 Just getting started....
 
 
+
+[Javascript | How to create tabs in HTML](https://sonikamaheshwari067.medium.com/javascript-how-to-create-tabs-in-html-301c3369a548)
+
+[CSS animated gradient and floating animation](https://torontodev.co/css-animations-114704cd63e2)
+
+[Difference Between call, apply and bind method in JavaScript](https://hdsatija.medium.com/difference-between-call-apply-and-bind-method-in-javascript-e98a7abc70e0)
+
+[Making Websites fast and responsive with these HTML tips](https://levelup.gitconnected.com/making-websites-fast-and-responsive-with-these-html-tips-887ed7988962)
+
+[Smooth scrolling links with only CSS](https://gomakethings.com/smooth-scrolling-links-with-only-css/)
+
+[The WORST JavaScript feature you didn't know about! #shorts](https://www.youtube.com/watch?v=fXK_kUPgiH8)
+
+[ChatGPT Tutorial for Developers - 38 Ways to 10x Your Productivity]
+
+[What does the JavaScript map method actually do?](https://www.youtube.com/watch?v=xNcDftFpjyo)
+
+[progressively enhance a nav menu](https://gomakethings.com/how-to-progressively-enhance-a-nav-menu/)
+
+[Creating a progressively enhanced accordion](https://gomakethings.com/creating-a-progressively-enhanced-accordion-with-the-details-and-summary-elements-and-11-lines-of-javascript/)
+
+[camel-cased classes are way better](https://zellwk.com/blog/camelcss/)
+
+[Announcing Sandpack 2.0](https://codesandbox.io/blog/announcing-sandpack-2)
+
+[The Responsive Combination We’ve All Been Waiting For](https://blog.bitsrc.io/css-clamp-the-responsive-combination-weve-all-been-waiting-for-f1ce1981ea6e)
+
+[Rotating gallery with CSS scroll-driven animations](https://jhey.dev/cheep/rotating-gallery-with-css-scroll-driven-animations/)
+
+[What the Git? My Git workflow](https://jhey.dev/cheep/what-the-git/)
+
+[Pop-ups: They're making a resurgence](https://developer.chrome.com/blog/pop-ups-theyre-making-a-resurgence/)
+
+[Ways to Get CSS Gradient Shadows](https://css-tricks.com/different-ways-to-get-css-gradient-shadows/)
+
+[Moving Backgrounds](https://css-tricks.com/moving-backgrounds/)
+
+[Circular text with CSS?](https://jhey.dev/cheep/circular-text-with-css/)
+
+
+
+
 ### Javascript
 
 
