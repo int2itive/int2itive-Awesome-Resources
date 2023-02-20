@@ -23,6 +23,54 @@
 [Text Animation - Vanilla JS](https://codepen.io/bulldogpatch-the-sasster/pen/JjoyeGg)
 
 
+
+[CSS — Transition](https://medium.com/learn-web-development-notes/css-transition-5f1d3afcbda2)
+
+[How to create a filter in JavaScript for your gallery](https://medium.com/@rodrigoluchina/how-to-create-a-filter-in-javascript-for-your-gallery-60ffc9b83445)
+
+[CSS Animations — How to Make Elements Animate](https://medium.com/@sherry11913/css-animations-how-to-make-elements-animate-e7b6b05a164b)
+
+[Introduction to Flexbox](https://hennasingh.medium.com/introduction-to-flexbox-c618e8f0ed00)
+
+[Flexbox in CSS](https://medium.com/@shashikaboteju3/flexbox-in-css-9cce0332cf15)
+
+[CSS Flexbox: 3 Tips and Tricks You Should Know](https://medium.com/@mmkrty/css-flexbox-3-tips-and-tricks-you-should-know-41e1cb461dfe)
+
+[The most important skill a programmer can learn](https://medium.com/free-code-camp/the-most-important-skill-a-programmer-can-learn-9d410c786baf)
+
+[Consistent Styling with SCSS](https://medium.com/@claude_ando/raw-scss-547d645f63eb)
+
+[CSS Resets](https://medium.com/@jason_wandrag_the_web_wizard/css-resets-63ebbb4e5806)
+
+[The Magic of the template Tag and JavaScript](https://medium.com/@jason_wandrag_the_web_wizard/the-magic-of-the-template-tag-and-javascript-df6407639cfb)
+
+[Mastering the Art of Array Wizardry with Higher-Order Functions](https://medium.com/@jason_wandrag_the_web_wizard/mastering-the-art-of-array-wizardry-with-higher-order-functions-d0801b408b1a)
+
+[DOM Manipulation in JavaScript](https://medium.com/@jason_wandrag_the_web_wizard/dom-manipulation-in-javascript-9611d19b9439)
+
+[Remove a DOM Element OnClick in JavaScript](https://javascript.plainenglish.io/javascript-remove-element-on-click-efa1fbd18dad)
+
+[JavaScript Generator Functions](https://medium.com/@jason_wandrag_the_web_wizard/javascript-generator-functions-867644b77eb3)
+
+[Fancy tooltip arrows using pure CSS](https://blog.canopas.com/fancy-tooltip-arrows-using-pure-css-e82d8f349e44)
+
+[SEMANTIC HTML](https://khosee6.medium.com/semantic-html-1ce22ab3007b)
+
+[Awesome Layouts with CSS Grid](https://olufoworaibrahim.medium.com/building-awesome-layouts-with-css-grid-52633d3fd036)
+
+[How to size text using ems](https://clagnut.com/blog/348)
+
+[Use rems for global sizing, use ems for local sizing](https://clagnut.com/blog/2384)
+
+[Future of CSS — Container Query](https://medium.com/geekculture/future-of-css-container-query-953246a0d1f3)
+
+[The CSS Image Overlay](https://medium.com/@tammycollinse/how-to-the-css-image-overlay-553cf5801493)
+
+[You don’t need to set up anything to start with JavaScript](https://ajaynjain.medium.com/you-dont-need-to-set-up-anything-to-start-with-javascript-8033c255da55)
+
+[Dark & Light Mode Switch](https://cluxcode.medium.com/dark-light-mode-switch-with-html-css-cf52591d1d26)
+
+
 /* Text Messaging Book Proj - P. Gibson */
 
 [Message Style CSS](https://codepen.io/ezenith/pen/pJLypJ)
@@ -30,6 +78,18 @@
 [Chat Bubbles - iOS style](https://codepen.io/swards/pen/gxQmbj)
 
 [Chat Bubbles in CSS](https://codepen.io/Founts/pen/AJyVOr)
+
+
+
+[Welcome to WeTransfer](https://wetransfer.com/)
+
+[API Stacks](https://www.companies.tools/)
+
+[Transform your text instructions into Excel formulas](https://excelformulabot.com/)
+
+[Quickly scan all your favorite travel sites](https://www.skyscanner.com/)
+
+[Free SEO & Digital Marketing Tools](https://h-supertools.com/?utm_content=cmp-true)
 
 
 https://www.canva.com/
