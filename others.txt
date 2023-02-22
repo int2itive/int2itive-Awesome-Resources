@@ -141,6 +141,22 @@ related: https://askbetterquestions.kevinpowell.co/
 
 [https://medium.com/theleanprogrammer/css-units-vh-vw-em-rem-px-etc-eeb1c0219e5e](https://medium.com/theleanprogrammer/css-units-vh-vw-em-rem-px-etc-eeb1c0219e5e)
 
+
+
+[MacBook Setup for Development](https://blog.scriptmint.com/my-macbook-setup-for-development-2023-7d35b7aa1adc)
+
+[intro to linear gradients in CSS](https://medium.com/@christopherchoute/basic-intro-to-linear-gradients-in-css-c2889548815e)
+
+[Why Tailwind is better](https://towardsdev.com/why-tailwind-is-better-by-trisk-f69bd4f3fedb)
+
+[You have 2 free member-only stories left this month](https://levelup.gitconnected.com/styled-checkboxes-and-radio-buttons-using-minimal-html-and-no-javascript-6ec6697ed23c)
+
+[AI websites you might not have known about](https://uxplanet.org/16-cool-ai-websites-you-might-not-have-known-about-adb78619d379)
+
+[Must-Have CSS Tools](https://medium.com/@ind/10-must-have-css-tools-25b1a1d6450c)
+
+
+
 above, added Weds - 22.02.23
 
 [Word Swipe Animation](https://codepen.io/EricPorter/pen/JjPmOOb)
