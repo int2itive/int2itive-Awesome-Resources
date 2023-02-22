@@ -10,6 +10,138 @@ LATEST!!!
 
 
 
+[JavaScript Garden](https://bonsaiden.github.io/JavaScript-Garden/)
+
+[What is the Five Layers Model?](https://www.freecodecamp.org/news/the-five-layers-model-explained/)
+
+[When do you use a JavaScript library](https://gomakethings.com/when-do-you-use-a-javascript-library-instead-of-writing-your-own-code/)
+
+[When should you use event delegation?](https://gomakethings.com/when-should-you-use-event-delegation/)
+
+[The best free JavaScript resources](https://jsbooks.revolunet.com/)
+
+[Everything about CSS media queries](https://medium.com/geekculture/everything-about-css-media-queries-3e9786294b81)
+
+[How to Use JavaScript Arrays Like a Pro](https://javascript.plainenglish.io/how-to-use-javascript-arrays-like-a-pro-3137b3218fef)
+
+[Some useful CSS tips & tricks](https://medium.com/@maz.islam1/some-useful-css-tips-tricks-i-learnt-while-creating-large-web-projects-85b2ee481021)
+
+
+[Adding files for a commit with asterisks](https://www.tempertemper.net/blog/adding-files-for-a-commit-with-asterisks)
+
+[Using Fuzzy-Find to Enhance Git Add](https://spin.atomicobject.com/2018/04/05/fuzzy-find-git-add/)
+
+[Making a Pull Request](https://www.atlassian.com/git/tutorials/making-a-pull-request)
+
+[copy text to clipboard with JavaScript](https://www.30secondsofcode.org/articles/s/copy-text-to-clipboard-with-javascript)
+
+[Get cookie by name](stackoverflow.com/a/15724300/30529)
+
+[Copy to clipboard async](https://www.30secondsofcode.org/js/s/copy-to-clipboard-async)
+
+[How do I copy to the clipboard in JavaScript?](https://stackoverflow.com/questions/400212/how-do-i-copy-to-the-clipboard-in-javascript)
+
+[Layout using named grid lines](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Layout_using_Named_Grid_Lines)
+
+[A CSS Flexbox Cheatsheet](https://www.digitalocean.com/community/cheatsheets/css-flexbox)
+
+[A Brief Intro to CSS Variables (Custom Properties)](https://www.digitalocean.com/community/tutorials/css-css-variables)
+
+[Tidy Menu Demos](https://www.cssscript.com/demo/multi-level-dropdown-menu-pure-javascript-tidy-menu/#)
+
+
+[CSS Gradient Counter List](https://codepen.io/equinusocio/pen/OqpBKJ)
+
+[CSS Math Functions That Every Developer Should Know](https://www.attractiveaurora.com/2021/10/css-math-functions-that-every-developer.html)
+
+[Create Pixel Effects with JavaScipt](https://www.freecodecamp.org/news/create-pixel-effects-with-javascript-and-html-canvas/)
+
+[Accessibility Myths](https://a11ymyths.com/)
+
+[Type Anything](https://app.typeanything.io/?ref=usniemvuilaptrinh)
+
+[Collectui - Summary of UI designs and updated daily](https://collectui.com/?ref=usniemvuilaptrinh)
+
+[Learn Anything](https://learn-anything.xyz/713)
+
+[The Front-End Checklist](https://frontendchecklist.io/?ref=usniemvuilaptrinh)
+
+[Cool Backgrounds](https://coolbackgrounds.io/?ref=usniemvuilaptrinh)
+
+[Web Designing Tools For Beginners](https://us.niemvuilaptrinh.com/article/25-web-design-online-tool-for-designer)
+
+[Complete Guide To Accessible Front-End Components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/)
+
+[Front End Developer Tools](https://levelup.gitconnected.com/45-front-end-developer-tools-e496b9c3503)
+
+(_Create new json file from everything above - below already done!!_)
+
+[Understanding Arrow Functions in Javascript](https://www.taniarascia.com/understanding-arrow-functions-in-javascript/)
+
+[Publish your portfolio on GitHub](https://dev.to/jozalex/publish-your-portfolio-on-github-6o)
+
+[Creata a Backdrop Filter Effect](https://dev.to/urielbitton/backdrop-filter-effect-with-css-4m2b)
+
+[Learn More About CSS Backgrounds](https://www.kevinpowell.co/article/im-always-surprised-more-people-dont-know-about-this)
+
+[Never Stop Asking Why](https://www.kevinpowell.co/article/never-stop-asking-why/)
+related: https://askbetterquestions.kevinpowell.co/
+
+[it's about knowing that the solution exists](https://www.kevinpowell.co/article/)
+
+[Centering content without a container](https://www.kevinpowell.co/article/centering-content-with-no-container/)
+
+[How to read and write JSON Files with Node.js? | by Mario Kandut | Medium](https://medium.com/@mariokandut/how-to-read-and-write-json-files-with-node-js-d7733c641aab)
+
+[NodeJS - How to read files using fs.readFileSync() method](https://sebhastian.com/fs-readfilesync/)
+
+[Download multiple files with cURL](https://bobcares.com/blog/download-multiple-files-with-curl-important-things-you-need-to-know/)
+
+[You Might Not Need jQuery](https://youmightnotneedjquery.com/)
+
+[CSS / CSS Fonts - DevDocs](https://devdocs.io/css/)
+
+[Data Structures: Objects and Arrays :: Eloquent JavaScript](https://eloquentjavascript.net/04_data.html)
+
+[20 Gradient CSS For Design UI](https://niemvuilaptrinh.medium.com/20-gradient-css-for-design-ui-acca9a6cb014)
+
+[5 Ways to Append Item to Array in JavaScript](https://www.samanthaming.com/tidbits/87-5-ways-to-append-item-to-array/)
+
+[And, Ampersand, and & in Linux](https://www.linux.com/training-tutorials/and-ampersand-and-linux/)
+
+[All about {Curly Braces} in Bash](https://www.linux.com/topic/desktop/all-about-curly-braces-bash/)
+
+[Linux Tools: The Meaning of Dot](https://www.linux.com/training-tutorials/linux-tools-meaning-dot/)
+
+[Privacy-focused Google Fonts CDN alternative](https://github.com/coollabsio/fonts#how-to-use)
+
+[Npm List](https://www.javascripttutorial.net/nodejs-tutorial/npm-list/)
+
+[How to use Git efficiently](https://medium.com/free-code-camp/how-to-use-git-efficiently-54320a236369)
+
+[Higher Order Functions In Javascript](https://devdotpy.medium.com/higher-order-functions-in-javascript-and-why-you-should-use-them-more-7c2b9e7e583e)
+
+[Javascript “this” keyword, Explained](https://medium.com/@aflahaliC/javascript-this-keyword-explained-in-terms-of-invocation-patterns-8bf4e2d70cec)
+
+[Free Hosting Services For Your Website](https://javascript.plainenglish.io/what-is-web-hosting-and-22-good-hosting-for-your-website-718c4a6c001e)
+
+[How to improve your UI design skills](https://icons8.medium.com/how-to-improve-your-ui-design-skills-in-5-minutes-a-day-9978b18aa7d)
+
+[A collection of design tips](https://twitter.com/i/events/994601867987619840)
+
+[How Human Memory Works](https://blog.icons8.com/articles/tips-for-ux-designers/)
+
+[Modal Libraries For Web Development](https://niemvuilaptrinh.medium.com/15-modal-libraries-for-web-development-d8e9bd9dcb3c)
+
+[JavaScript Loops Expanded](https://michaelabe.medium.com/javascript-break-and-continue-9073bcdec7cd)
+
+[Easy CSS Themes with SASS](https://medium.com/@sir.different/easy-css-themes-with-sass-d91d054799be)
+
+[JavaScript Array Iteration](https://medium.com/@zawood11/javascript-intro-to-array-iteration-d86283800f9a)
+
+[https://medium.com/theleanprogrammer/css-units-vh-vw-em-rem-px-etc-eeb1c0219e5e](https://medium.com/theleanprogrammer/css-units-vh-vw-em-rem-px-etc-eeb1c0219e5e)
+
+above, added Weds - 22.02.23
 
 [Word Swipe Animation](https://codepen.io/EricPorter/pen/JjPmOOb)
 
