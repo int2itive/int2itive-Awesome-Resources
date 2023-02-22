@@ -155,6 +155,18 @@ related: https://askbetterquestions.kevinpowell.co/
 
 [Must-Have CSS Tools](https://medium.com/@ind/10-must-have-css-tools-25b1a1d6450c)
 
+[JavaScript data structures you must know](https://www.educative.io/blog/javascript-data-structures)
+
+[APIs to solve everyday problems](https://www.educative.io/blog/api-for-every-use-case)
+
+[The basics of bit manipulation](https://www.educative.io/blog/bit-manipulation-algorithms)
+
+[SQL vs NoSQL: Choosing a database](https://www.educative.io/blog/sql-vs-nosql-choosing-a-database)
+
+[top in-demand programming languages]()
+
+
+
 
 
 above, added Weds - 22.02.23
