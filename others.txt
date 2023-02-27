@@ -1,5 +1,50 @@
 LATEST!!!
 
+
+
+
+
+[CSS authors that must be read](https://medium.com/@stasmelnikov/my-favorite-css-authors-that-must-be-read-543b3dcae512)
+
+[CSS Animation Patterns](https://levelup.gitconnected.com/css-animation-patterns-d4d2759c5f2b)
+
+[CSS Clamp and responsive sizes](https://medium.com/@bohloul/css-clamp-and-taking-care-of-responsive-sizes-3b05afb6c4e6)
+
+[CSS Preview Card Component](https://levelup.gitconnected.com/build-a-css-preview-card-component-f9344dd5b160)
+
+
+
+
+
+[10 things should be avoided as a javascript developer](https://ruhul-amin.medium.com/10-things-should-be-avoided-as-a-javascript-developer-f22ea2253823)
+
+[JavaScript Tips: best practices](https://learningdaily.dev/15-javascript-tips-best-practices-to-simplify-your-code-cc0d44d738f3)
+
+[Enhancing JavaScript Objects](https://itnext.io/enhancing-javascript-objects-with-descriptors-and-symbols-2cdc95e9b422)
+
+[ES6 Destructuring Tricks for Cleaner Code](https://medium.com/@maria_laramie/7-es6-destructuring-tricks-for-cleaner-code-%EF%B8%8F-a0a1b7b374be)
+
+[Advanced JavaScript Tricks](https://medium.com/@maria_laramie/5-advanced-javascript-tricks-for-experienced-developers-5fe29e3e5e5e)
+
+[Common JavaScript Interview Questions](https://medium.com/@maria_laramie/10-common-javascript-interview-questions-and-how-to-answer-them-328b59806cf7)
+
+[Memory leaks in JavaScript](https://medium.com/@lelianto.eko/memory-leaks-in-javascript-and-how-to-prevent-them-96a69de65c31)
+
+[The difference between functions and arrow functions in JavaScript](https://medium.com/@lelianto.eko/the-difference-between-functions-and-arrow-functions-in-javascript-7a794120954f)
+
+[Questions for Senior Frontend Developer](https://medium.com/@lelianto.eko/some-questions-for-senior-frontend-developer-2d61d28ba456)
+
+[Algorithms that Software Developers Must Know](https://medium.com/@lelianto.eko/6-algorithms-that-software-developers-must-know-40d42d4208dc)
+
+[map vs forEach in JavaScript - intro article](https://medium.com/@lelianto.eko/map-vs-foreach-in-javascript-f66682b50dd6)
+
+
+
+
+
+
+
+
 [FREE web hosting and domain name for SaaS or Websites](https://medium.com/@shivanshudev/how-to-get-free-web-hosting-and-domain-name-for-saas-or-websites-959c72e4d433)
 
 [Stop using Dribbble & Behance to find design inspiration](https://uxplanet.org/stop-using-dribbble-behance-to-find-design-inspiration-use-these-15-websites-instead-b3a200c82776)
