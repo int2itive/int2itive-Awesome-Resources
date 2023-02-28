@@ -3,6 +3,22 @@ LATEST!!!
 
 
 
+[CSS — Part-4](https://eishta.medium.com/css-part-4-3702f4cec087)
+
+[Guide to Using the :is(), :where(), and :has() Pseudo Elements](https://medium.com/@austinrutledge0/a-guide-to-using-the-is-where-and-has-pseudo-elements-in-css-96916b65be27)
+
+[Container Queries in CSS and How to Use Them](https://medium.com/@designspluscodes/what-are-container-queries-in-css-and-how-to-use-them-e2fdf7937973)
+
+[Introduction to Native Web Components](https://medium.com/stackanatomy/an-introduction-to-native-web-components-89440373171b)
+
+[CSS vs SCSS — The Battle of the Best (Practices)](https://medium.com/@farshad-s/css-vs-scss-the-battle-of-the-best-practices-bd4c0215960f)
+
+[What is the DOM and BOM in JavaScript?](https://medium.com/@Harshit_Raj_14/what-is-the-dom-and-bom-in-javascript-cd01d1e94a42)
+
+[icebreakers you can steal for better meetings](https://jackiecolburn.medium.com/more-icebreakers-you-can-steal-for-better-meetings-72afad91067d)
+
+
+
 
 [CSS authors that must be read](https://medium.com/@stasmelnikov/my-favorite-css-authors-that-must-be-read-543b3dcae512)
 
