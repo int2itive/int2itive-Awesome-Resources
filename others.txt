@@ -3,6 +3,27 @@ LATEST!!!
 
 
 
+
+[CSS Background: Create Stunning Visuals](https://medium.com/@CodingCossack/css-background-create-stunning-visuals-and-elevate-your-web-pages-9610d8b5fa70)
+
+[Speed Up Your JavaScript: Proven Techniques](https://javascript.plainenglish.io/speed-up-your-javascript-proven-techniques-for-optimizing-performance-c3471f8df54f)
+
+[Why CSS Units Matter to Your Responsive Website](https://medium.com/getpieces/why-css-units-matter-to-your-responsive-website-designs-311d5b69c15c)
+
+[CSS Resets](https://medium.com/@jason_wandrag_the_web_wizard/css-resets-63ebbb4e5806)
+
+[Mastering the Art of CSS](https://bootcamp.uxdesign.cc/mastering-the-art-of-css-bc2c0798d82b)
+
+[The Key to CSS Keyframes](https://medium.com/@calvin.atkeson/the-key-to-css-keyframes-cffe63fde4b6)
+
+[An Interactive Guide to Keyframe Animations](https://www.joshwcomeau.com/animation/keyframe-animations/)
+
+[Create a scrollbar inside a div](https://medium.com/@sahibsingh0307/create-a-scrollbar-inside-a-div-1436a22e0c82)
+
+
+
+
+
 [CSS — Part-4](https://eishta.medium.com/css-part-4-3702f4cec087)
 
 [Guide to Using the :is(), :where(), and :has() Pseudo Elements](https://medium.com/@austinrutledge0/a-guide-to-using-the-is-where-and-has-pseudo-elements-in-css-96916b65be27)
