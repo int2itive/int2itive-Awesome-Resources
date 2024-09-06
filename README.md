@@ -8,6 +8,10 @@ Just getting started....
 
 
 
+[Figma tips for UI3](https://uxdesign.cc/8-figma-tips-for-ui3-efee3734464e)
+
+[Top Figma plugins you can’t miss](https://medium.muz.li/top-9-figma-plugins-you-cant-miss-in-2024-6222b0ddcdf5)
+
 [Javascript | How to create tabs in HTML](https://sonikamaheshwari067.medium.com/javascript-how-to-create-tabs-in-html-301c3369a548)
 
 [CSS animated gradient and floating animation](https://torontodev.co/css-animations-114704cd63e2)
